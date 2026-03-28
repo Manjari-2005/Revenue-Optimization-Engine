@@ -3,8 +3,6 @@
 ## 🎯 Problem Statement
 How can a retailer identify the optimal price point to maximize revenue across diverse product categories while accounting for customer sensitivity and seasonal trends?
 
-## 🚀 Live Demo
-[Insert your Streamlit Cloud Link here once hosted!]
 
 ## 🛠️ Tech Stack
 - **Analysis:** Python (Pandas, Scipy for Linear Regression)
